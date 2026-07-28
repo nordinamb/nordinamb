@@ -146,7 +146,7 @@ Upgrading an industrial photovoltaic panel test bench:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nordinamb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nordinamb&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=nordinamb&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
